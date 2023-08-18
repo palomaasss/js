@@ -1,0 +1,16 @@
+{
+  "name": "exercicios_trabalho1b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
